@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-header',
@@ -12,6 +12,10 @@ export class HeaderComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+  }
+
+  toggleAddTask(){
+    console.log("toggleAddTask Click!");
   }
 
 }

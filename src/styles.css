@@ -19,7 +19,7 @@ body {
     margin: 30px auto;
     overflow: auto;
     min-height: 3rem;
-    border: 2rem solid steelblue;
+    border: 0.5rem solid steelblue;
     padding: 30px;
     border-radius: 5px;
 }

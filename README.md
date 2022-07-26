@@ -1,3 +1,9 @@
+# Task-list
+
+Proyecto generado con Angular cli.
+Este proyecto trata de un ejercicio realizado para el modulo 3 del curso Argentina Programa.
+Autora: Gabriela Soledad Adorno
+
 # TaskList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
