@@ -9,8 +9,19 @@
     border-left: 0.5rem solid rgb(0, 134, 13);
 }
 
-.task.h3{
+.task h3{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding-left: 1rem;
+}
+
+.task p{
+    display: flex;
+    justify-content:baseline;
+    padding: 0 1rem;
+}
+
+.icon-cruz{
+    color: rgb(204, 0, 0);
 }
