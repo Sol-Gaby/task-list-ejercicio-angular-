@@ -1,0 +1,10 @@
+<app-task-items 
+*ngFor="let task of tasks"
+[task]="task"
+>
+
+    <!-- {{task.text}}
+     con esto enlazamos el bucle que creamos con el *ngForn en la tasks.component.htm y con ello entra todo el arreglo que hicimos en mock-task.ts -->
+
+</app-task-items>
+<!-- aca le pasamos el componente de app-task-items a la etiqueta contenedora, esto lo hacemos para asi sacar el {{task-test}} que nos ponnia la lista de tareas creadas den mock-tasck, y llevarlas directamente adentro de la etiqueta -->

@@ -1,0 +1,16 @@
+.task{
+    background-color: rgb(220, 220, 220);
+    margin: 1rem;
+    padding: 1rem;
+    cursor: pointer;
+}
+
+.task.remaider{
+    border-left: 0.5rem solid rgb(0, 134, 13);
+}
+
+.task.h3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
